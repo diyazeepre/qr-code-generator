@@ -1,0 +1,6 @@
+{
+  "name": "QRify — Instant QR Code Generator",
+  "description": "Generate, preview, customize, and download high-resolution PNG QR codes instantly from any URL or text.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
